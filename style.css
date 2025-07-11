@@ -283,6 +283,12 @@ header{
     border: 1px solid rgba(214, 221, 237, 1);
     
 }
+.login p input{
+    width: 497px; height: 140px;
+    border-radius: 10px;
+    border: 1px solid rgba(214, 221, 237, 1);
+    
+}
 
 .login button:hover{
     background-color: rgb(255, 130, 58);
@@ -299,7 +305,8 @@ header{
 /* footer section */
 
 
- .footer {
+ .footer {  
+            margin-top: 60px;
             background-color: #eeecec;
             text-align: center;
             padding: 50px 0;
