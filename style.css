@@ -278,6 +278,7 @@ header{
 
 }
 .login li input{
+    margin-top: 10px;
     width: 497px; height: 70px;
     border-radius: 10px;
     border: 1px solid rgba(214, 221, 237, 1);
@@ -345,3 +346,5 @@ header{
             font-size: 100px;
         
         }
+
+/* the end */
