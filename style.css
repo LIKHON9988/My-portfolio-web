@@ -307,6 +307,7 @@ header{
             color: rgba(137, 135, 161, 1);
             text-decoration: none;
             transition: color 0.3s;
+            font-size: 20px;
         }
         
         .footer-items a:hover {
@@ -315,5 +316,10 @@ header{
         
         .footer2 p {
             color: rgba(137, 135, 161, 1);
-            font-size: 18px;
+            font-size: 20px;
         }
+        .footer2 h1{
+            color: rgba(78, 71, 255, 1);
+            font-size: 100px;
+        
+        }
